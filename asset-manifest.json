@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.47ee913c.css",
-    "main.js": "./static/js/main.1894b143.js",
+    "main.css": "./static/css/main.aafd04d0.css",
+    "main.js": "./static/js/main.aba71c3d.js",
     "static/media/lexy3.png": "./static/media/lexy3.98ac46c9415d0449012f.png",
     "static/media/mongodb-plain-wordmark.svg": "./static/media/mongodb-plain-wordmark.8b657991311ca1344b2d265b351178fc.svg",
     "static/media/linux.svg": "./static/media/linux.09157b83559dfafd707166895f9457b4.svg",
@@ -42,11 +42,11 @@
     "static/media/github.svg": "./static/media/github.be04d1f162ca2228aa267ad71cbd8f23.svg",
     "static/media/hobbies.svg": "./static/media/hobbies.10306b5732c83da7d3369a869cc4ad57.svg",
     "static/media/facebook.svg": "./static/media/facebook.ec8e7d7557f901bcbc326a1b23891004.svg",
-    "main.47ee913c.css.map": "./static/css/main.47ee913c.css.map",
-    "main.1894b143.js.map": "./static/js/main.1894b143.js.map"
+    "main.aafd04d0.css.map": "./static/css/main.aafd04d0.css.map",
+    "main.aba71c3d.js.map": "./static/js/main.aba71c3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.47ee913c.css",
-    "static/js/main.1894b143.js"
+    "static/css/main.aafd04d0.css",
+    "static/js/main.aba71c3d.js"
   ]
 }
